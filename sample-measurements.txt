@@ -1,0 +1,16 @@
+Bloemfontein;11.5
+Stockholm;15.1
+Aden;17.5
+Aden;31.7
+Columbus;13.8
+Vienna;-6.7
+Abidjan;28.4
+Belize City;16.2
+Indianapolis;38.0
+Ho Chi Minh City;23.8
+Bordeaux;29.0
+Baghdad;36.2
+Rabat;14.8
+Astana;-2.1
+Burnie;8.9
+Chongqing;43.6
